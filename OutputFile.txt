@@ -1,211 +1,242 @@
   PID TTY           TIME CMD
   244 ??         0:00.10 /System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd
-  245 ??         4:03.33 /usr/sbin/cfprefsd agent
-  248 ??         0:06.39 /usr/libexec/UserEventAgent (Aqua)
-  250 ??         0:05.23 /usr/sbin/distnoted agent
-  252 ??         0:04.01 /System/Library/CoreServices/talagent
-  253 ??         0:27.03 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
-  254 ??         0:07.42 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
-  255 ??         0:47.55 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
-  256 ??         1:21.03 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
-  257 ??         0:07.41 /usr/libexec/lsd
-  258 ??         0:18.76 /usr/libexec/trustd --agent
-  259 ??         0:05.87 /usr/libexec/secd
-  262 ??         0:01.53 /usr/libexec/pboard
-  263 ??         0:51.42 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
-  265 ??         0:01.84 /System/Library/CoreServices/sharedfilelistd
-  267 ??         0:04.00 /usr/libexec/pkd
-  270 ??         0:12.06 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
-  271 ??         0:01.95 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
-  275 ??         0:05.99 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
-  276 ??         0:02.26 /usr/libexec/secinitd
-  277 ??         0:01.92 /usr/sbin/usernoted
-  278 ??         0:01.63 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
-  279 ??         0:03.56 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
-  281 ??         0:19.14 /System/Library/CoreServices/iconservicesagent
-  282 ??         0:00.95 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
-  284 ??         0:04.71 /usr/libexec/nsurlsessiond
-  285 ??         0:10.29 /usr/libexec/sharingd
-  286 ??         0:12.95 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
-  287 ??         0:00.25 /System/Library/CoreServices/backgroundtaskmanagementagent
+  245 ??         4:34.69 /usr/sbin/cfprefsd agent
+  248 ??         0:07.09 /usr/libexec/UserEventAgent (Aqua)
+  250 ??         0:07.18 /usr/sbin/distnoted agent
+  252 ??         0:04.45 /System/Library/CoreServices/talagent
+  253 ??         0:41.36 /System/Library/CoreServices/Dock.app/Contents/MacOS/Dock
+  254 ??         0:08.13 /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter -L
+  255 ??         0:50.21 /System/Library/CoreServices/SystemUIServer.app/Contents/MacOS/SystemUIServer
+  256 ??         2:55.39 /System/Library/CoreServices/Finder.app/Contents/MacOS/Finder
+  257 ??         0:10.02 /usr/libexec/lsd
+  258 ??         0:21.98 /usr/libexec/trustd --agent
+  259 ??         0:06.08 /usr/libexec/secd
+  262 ??         0:02.13 /usr/libexec/pboard
+  263 ??         1:00.16 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/fontd
+  265 ??         0:04.02 /System/Library/CoreServices/sharedfilelistd
+  267 ??         0:08.50 /usr/libexec/pkd
+  270 ??         0:13.93 /System/Library/PrivateFrameworks/ViewBridge.framework/Versions/A/XPCServices/ViewBridgeAuxiliary.xpc/Contents/MacOS/ViewBridgeAuxiliary
+  271 ??         0:02.70 /System/Library/PrivateFrameworks/TCC.framework/Resources/tccd
+  275 ??         0:06.45 /System/Library/PrivateFrameworks/CloudKitDaemon.framework/Support/cloudd
+  276 ??         0:03.24 /usr/libexec/secinitd
+  277 ??         0:02.09 /usr/sbin/usernoted
+  278 ??         0:02.03 /System/Library/PrivateFrameworks/UserActivity.framework/Agents/useractivityd
+  279 ??         0:03.93 /System/Library/CoreServices/Dock.app/Contents/XPCServices/com.apple.dock.extra.xpc/Contents/MacOS/com.apple.dock.extra
+  281 ??         0:28.99 /System/Library/CoreServices/iconservicesagent
+  282 ??         0:01.27 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/Versions/A/Support/bird
+  284 ??         0:05.35 /usr/libexec/nsurlsessiond
+  285 ??         0:11.00 /usr/libexec/sharingd
+  286 ??         0:13.65 /System/Library/CoreServices/NotificationCenter.app/Contents/MacOS/NotificationCenter
+  287 ??         0:00.28 /System/Library/CoreServices/backgroundtaskmanagementagent
   288 ??         0:00.08 /System/Library/Frameworks/CryptoTokenKit.framework/ctkahp.bundle/Contents/MacOS/ctkahp
-  291 ??         0:00.05 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
-  292 ??         0:21.83 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
-  293 ??         0:00.08 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
-  294 ??         0:15.13 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
-  295 ??         0:50.32 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
-  296 ??         0:01.78 /System/Library/PrivateFrameworks/MessagesKit.framework/Resources/soagent.app/Contents/MacOS/soagent
+  291 ??         0:00.06 /System/Library/Frameworks/CryptoTokenKit.framework/ctkd -tw
+  292 ??         0:23.06 /System/Library/Frameworks/Accounts.framework/Versions/A/Support/accountsd
+  293 ??         0:00.09 /System/Library/PrivateFrameworks/CallHistory.framework/Support/CallHistoryPluginHelper
+  294 ??         0:18.05 /System/Library/CoreServices/Spotlight.app/Contents/MacOS/Spotlight
+  295 ??         0:55.47 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
+  296 ??         0:01.91 /System/Library/PrivateFrameworks/MessagesKit.framework/Resources/soagent.app/Contents/MacOS/soagent
   297 ??         0:00.09 /System/Library/Frameworks/Security.framework/Versions/A/Resources/CloudKeychainProxy.bundle/Contents/MacOS/CloudKeychainProxy
-  299 ??         0:00.82 /usr/libexec/rapportd
-  300 ??         0:06.04 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
-  301 ??         0:02.57 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
-  303 ??         0:03.26 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
-  304 ??         0:02.68 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
-  307 ??         0:01.39 /System/Library/PrivateFrameworks/CoreWLANKit.framework/Versions/A/XPCServices/WiFiProxy.xpc/Contents/MacOS/WiFiProxy
-  309 ??         0:01.05 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
-  310 ??         0:02.28 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
-  311 ??         0:00.09 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
-  313 ??         0:01.03 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
-  314 ??         0:02.98 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
-  315 ??         0:00.29 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
-  316 ??         0:00.24 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
-  318 ??         0:02.54 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccountsService
-  320 ??         0:02.31 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
-  321 ??         0:01.53 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
-  323 ??         0:03.15 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
-  327 ??         0:06.26 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension
-  328 ??         0:00.41 /usr/libexec/fmfd
-  329 ??         0:01.34 /System/Library/CoreServices/pbs
-  330 ??         0:00.28 /usr/libexec/networkserviceproxy
+  299 ??         0:00.83 /usr/libexec/rapportd
+  300 ??         0:06.26 /System/Library/PrivateFrameworks/CalendarAgent.framework/Executables/CalendarAgent
+  301 ??         0:02.69 /System/Library/PrivateFrameworks/IDS.framework/identityservicesd.app/Contents/MacOS/identityservicesd
+  303 ??         0:03.60 /System/Library/PrivateFrameworks/CoreParsec.framework/parsecd
+  304 ??         0:02.90 /System/Library/PrivateFrameworks/TelephonyUtilities.framework/callservicesd
+  307 ??         0:01.43 /System/Library/PrivateFrameworks/CoreWLANKit.framework/Versions/A/XPCServices/WiFiProxy.xpc/Contents/MacOS/WiFiProxy
+  309 ??         0:01.35 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/commerce
+  310 ??         0:02.65 /System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod
+  311 ??         0:00.10 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeaccountd
+  313 ??         0:01.10 /System/Library/PrivateFrameworks/IMCore.framework/imagent.app/Contents/MacOS/imagent
+  314 ??         0:03.16 /System/Library/PrivateFrameworks/CalendarNotification.framework/Versions/A/XPCServices/CalNCService.xpc/Contents/MacOS/CalNCService
+  315 ??         0:00.43 /System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/XPCServices/com.apple.hiservices-xpcservice.xpc/Contents/MacOS/com.apple.hiservices-xpcservice
+  316 ??         0:00.26 /System/Library/PrivateFrameworks/IMDPersistence.framework/XPCServices/IMDPersistenceAgent.xpc/Contents/MacOS/IMDPersistenceAgent
+  318 ??         0:02.75 /System/Library/Frameworks/AddressBook.framework/Executables/ContactsAccountsService
+  320 ??         0:02.53 /System/Library/Frameworks/InputMethodKit.framework/Resources/imklaunchagent
+  321 ??         0:03.39 /System/Library/PrivateFrameworks/FileProvider.framework/Support/fileproviderd
+  323 ??         0:03.36 /usr/libexec/routined LAUNCHED_BY_LAUNCHD
+  327 ??         0:07.65 /System/Library/Input Methods/PressAndHold.app/Contents/PlugIns/PAH_Extension.appex/Contents/MacOS/PAH_Extension
+  328 ??         0:00.43 /usr/libexec/fmfd
+  329 ??         0:01.57 /System/Library/CoreServices/pbs
+  330 ??         0:00.30 /usr/libexec/networkserviceproxy
   337 ??         0:00.04 /System/Library/CoreServices/APFSUserAgent
-  339 ??         0:49.38 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
-  340 ??         0:03.49 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
-  342 ??         0:02.73 /usr/libexec/nsurlstoraged
-  343 ??         0:19.54 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
-  344 ??         0:00.50 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
-  345 ??         0:03.60 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
-  346 ??         0:00.35 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
+  339 ??         0:54.05 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
+  340 ??         0:03.87 /System/Library/CoreServices/CoreLocationAgent.app/Contents/MacOS/CoreLocationAgent
+  342 ??         0:03.21 /usr/libexec/nsurlstoraged
+  343 ??         0:20.50 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistantd
+  344 ??         0:00.65 /System/Library/PrivateFrameworks/CloudDocsDaemon.framework/XPCServices/ContainerMetadataExtractor.xpc/Contents/MacOS/ContainerMetadataExtractor
+  345 ??         0:04.05 /System/Library/CoreServices/WiFiAgent.app/Contents/MacOS/WiFiAgent
+  346 ??         0:00.40 /System/Library/Frameworks/AudioToolbox.framework/AudioComponentRegistrar
   347 ??         0:00.12 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/media-indexer.xpc/Contents/MacOS/media-indexer
-  348 ??         0:00.18 /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/XPCServices/com.apple.iTunesLibraryService.xpc/Contents/MacOS/com.apple.iTunesLibraryService
-  349 ??         0:00.16 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
-  350 ??         0:00.36 /usr/libexec/swcd
+  348 ??         0:00.20 /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/XPCServices/com.apple.iTunesLibraryService.xpc/Contents/MacOS/com.apple.iTunesLibraryService
+  349 ??         0:00.17 /System/Library/PrivateFrameworks/FamilyCircle.framework/Versions/A/Resources/familycircled
+  350 ??         0:00.44 /usr/libexec/swcd
   351 ??         0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
-  352 ??         0:01.53 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
+  352 ??         0:01.70 /System/Library/PrivateFrameworks/AuthKit.framework/Versions/A/Support/akd
   353 ??         0:00.04 /System/Library/PrivateFrameworks/CoreSpeech.framework/corespeechd
-  354 ??         0:02.84 /System/Library/Extensions/HornetDriver.kext/SgfxMain.agent/SgfxMain
+  354 ??         0:03.22 /System/Library/Extensions/HornetDriver.kext/SgfxMain.agent/SgfxMain
   356 ??         0:00.16 /System/Library/CoreServices/SocialPushAgent.app/Contents/MacOS/SocialPushAgent
-  358 ??         0:00.22 /usr/libexec/dmd
-  359 ??         0:31.45 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
+  358 ??         0:00.24 /usr/libexec/dmd
+  359 ??         0:36.11 /System/Library/CoreServices/Siri.app/Contents/MacOS/Siri launchd
   360 ??         0:00.39 /System/Library/Image Capture/Support/icdd
-  361 ??         0:16.41 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugIns/FrontendAgent.app/Contents/MacOS/FrontendAgent
-  364 ??         0:03.26 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
-  365 ??         0:00.56 /usr/libexec/knowledge-agent
+  361 ??         0:19.79 /Library/Application Support/Malwarebytes/MBAM/Engine.bundle/Contents/PlugIns/FrontendAgent.app/Contents/MacOS/FrontendAgent
+  364 ??         0:03.65 /System/Library/CoreServices/AirPlayUIAgent.app/Contents/MacOS/AirPlayUIAgent --launchd
+  365 ??         0:00.57 /usr/libexec/knowledge-agent
   366 ??         0:00.87 /System/Library/CoreServices/cloudpaird
-  367 ??         0:03.57 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
-  368 ??         0:02.68 /System/Library/CoreServices/diagnostics_agent
-  369 ??         0:00.96 /usr/libexec/adprivacyd
-  370 ??         0:24.53 /Library/PrivilegedHelperTools/DisplayLink/DisplayLinkUserAgent.app/Contents/MacOS/DisplayLinkUserAgent
+  367 ??         0:04.01 /System/Library/PrivateFrameworks/Noticeboard.framework/Versions/A/Resources/nbagent.app/Contents/MacOS/nbagent
+  368 ??         0:03.06 /System/Library/CoreServices/diagnostics_agent
+  369 ??         0:01.06 /usr/libexec/adprivacyd
+  370 ??         0:26.77 /Library/PrivilegedHelperTools/DisplayLink/DisplayLinkUserAgent.app/Contents/MacOS/DisplayLinkUserAgent
   373 ??         0:00.02 SafeEjectGPUAgent
   374 ??         0:00.06 /System/Library/CoreServices/Menu Extras/SafeEjectGPUExtra.menu/Contents/XPCServices/SafeEjectGPUService.xpc/Contents/MacOS/SafeEjectGPUService
-  375 ??         0:01.03 /usr/libexec/videosubscriptionsd
-  382 ??         0:00.30 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+  375 ??         0:01.21 /usr/libexec/videosubscriptionsd
+  382 ??         0:00.35 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
   383 ??         0:00.08 /System/Library/CoreServices/Software Update.app/Contents/Resources/softwareupdate_notify_agent
-  387 ??         0:00.29 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
+  387 ??         0:00.64 /System/Library/PrivateFrameworks/CacheDelete.framework/deleted
   411 ??         0:00.10 /usr/libexec/findmydevice-user-agent
   413 ??         0:00.06 /usr/libexec/USBAgent
   437 ??         0:00.05 /System/Library/Frameworks/MediaAccessibility.framework/Versions/A/XPCServices/com.apple.accessibility.mediaaccessibilityd.xpc/Contents/MacOS/com.apple.accessibility.mediaaccessibilityd
-  439 ??        10:23.19 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
-  443 ??         0:15.15 /System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
-  447 ??         0:01.00 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
-  450 ??         0:04.03 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
-  452 ??         0:00.28 /usr/libexec/keyboardservicesd
-  453 ??         0:02.35 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
-  474 ??         0:05.67 /System/Library/CoreServices/cloudphotosd.app/Contents/MacOS/cloudphotosd
-  477 ??         0:00.80 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/Frameworks/CloudPhotosConfigurationXPC.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
-  479 ??         0:01.27 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Support/photolibraryd
-  480 ??         0:00.23 /System/Library/CoreServices/ScopedBookmarkAgent
-  481 ??         0:00.29 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomoments.xpc/Contents/MacOS/com.apple.photomoments
-  482 ??         0:02.00 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
+  439 ??        10:25.51 /System/Library/CoreServices/Siri.app/Contents/XPCServices/SiriNCService.xpc/Contents/MacOS/SiriNCService
+  443 ??         0:16.44 /System/Library/CoreServices/SafariSupport.bundle/Contents/MacOS/SafariBookmarksSyncAgent
+  447 ??         0:01.09 /System/Library/PrivateFrameworks/AssetCacheServices.framework/Versions/A/XPCServices/AssetCacheLocatorService.xpc/Contents/MacOS/AssetCacheLocatorService -a
+  450 ??         0:12.42 /System/Library/Services/AppleSpell.service/Contents/MacOS/AppleSpell
+  452 ??         0:00.30 /usr/libexec/keyboardservicesd
+  453 ??         0:02.47 /System/Library/PrivateFrameworks/CoreSuggestions.framework/Versions/A/Support/suggestd
+  474 ??         0:06.28 /System/Library/CoreServices/cloudphotosd.app/Contents/MacOS/cloudphotosd
+  477 ??         0:00.91 /System/Library/PrivateFrameworks/CloudPhotoServices.framework/Versions/A/Frameworks/CloudPhotosConfigurationXPC.framework/Versions/A/XPCServices/com.apple.CloudPhotosConfiguration.xpc/Contents/MacOS/com.apple.CloudPhotosConfiguration
+  479 ??         0:01.28 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Support/photolibraryd
+  480 ??         0:00.32 /System/Library/CoreServices/ScopedBookmarkAgent
+  481 ??         0:00.31 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomoments.xpc/Contents/MacOS/com.apple.photomoments
+  482 ??         0:02.09 /System/Library/PrivateFrameworks/PhotoAnalysis.framework/Versions/A/Support/photoanalysisd
   483 ??         0:00.08 /System/Library/PrivateFrameworks/PhotoLibrary.framework/Versions/A/XPCServices/com.apple.PhotoIngestService.xpc/Contents/MacOS/com.apple.PhotoIngestService
-  486 ??         0:02.47 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
-  488 ??         0:00.14 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
-  489 ??         0:00.65 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeassetd
-  490 ??         0:00.75 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/atsd
-  491 ??         0:01.97 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
-  494 ??       207:20.60 /Applications/Firefox.app/Contents/MacOS/firefox
-  495 ??         3:17.20 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.2101422554 tab
-  496 ??         9:01.72 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 2 -isForBrowser -prefsLen 6880 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.582691980 tab
-  508 ??        10:17.60 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20200720193547 -prefsLen 8107 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.1202880508 rdd
-  509 ??         0:08.98 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
-  510 ??         0:00.07 /usr/libexec/spindump_agent
-  514 ??         2:08.20 /usr/libexec/avconferenced
-  548 ??         0:12.05 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd
-  549 ??         0:00.16 /usr/libexec/assertiond
+  486 ??         0:02.71 /System/Library/PrivateFrameworks/AppStoreDaemon.framework/Support/appstoreagent
+  488 ??         0:00.17 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storedownloadd
+  489 ??         0:00.70 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeassetd
+  490 ??         0:00.77 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/ATS.framework/Support/atsd
+  491 ??         0:02.22 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/corespotlightd
+  494 ??       225:27.90 /Applications/Firefox.app/Contents/MacOS/firefox
+  495 ??         3:38.68 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 1 -isForBrowser -prefsLen 1 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.2101422554 tab
+  496 ??        10:19.41 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 2 -isForBrowser -prefsLen 6880 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.582691980 tab
+  508 ??        11:42.22 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -parentBuildID 20200720193547 -prefsLen 8107 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.1202880508 rdd
+  509 ??         0:10.08 /System/Library/CoreServices/OSDUIHelper.app/Contents/MacOS/OSDUIHelper
+  510 ??         0:00.08 /usr/libexec/spindump_agent
+  514 ??         2:19.57 /usr/libexec/avconferenced
+  548 ??         0:12.28 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/SpeechSynthesis.framework/Resources/com.apple.speech.speechsynthesisd
+  549 ??         0:00.18 /usr/libexec/assertiond
   550 ??         0:00.10 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/XPCServices/com.apple.siri.ClientFlow.ClientScripter.xpc/Contents/MacOS/com.apple.siri.ClientFlow.ClientScripter
   553 ??         0:00.02 /System/Library/Frameworks/AudioToolbox.framework/XPCServices/com.apple.audio.SandboxHelper.xpc/Contents/MacOS/com.apple.audio.SandboxHelper
-  554 ??         6:47.82 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
-  555 ??         0:06.45 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
-  557 ??         0:00.16 /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/XPCServices/com.apple.iTunesLibraryService.xpc/Contents/MacOS/com.apple.iTunesLibraryService
-  558 ??         0:00.12 /usr/libexec/siriknowledged
-  559 ??         0:00.09 /System/Library/PrivateFrameworks/FMClient.framework/Versions/A/XPCServices/FMIPClientXPCService.xpc/Contents/MacOS/FMIPClientXPCService
-  564 ??         0:02.10 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
-  574 ??         0:02.56 /System/Library/Frameworks/Foundation.framework/Versions/C/XPCServices/com.apple.foundation.UserScriptService.xpc/Contents/MacOS/com.apple.foundation.UserScriptService
-  580 ??         0:00.25 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
-  582 ??         0:00.05 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool agent
-  609 ??         0:06.76 /usr/libexec/studentd
+  554 ??         6:47.83 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+  555 ??         0:23.78 /System/Library/PrivateFrameworks/AssistantServices.framework/Versions/A/Support/assistant_service
+  557 ??         0:00.19 /System/Library/Frameworks/iTunesLibrary.framework/Versions/A/XPCServices/com.apple.iTunesLibraryService.xpc/Contents/MacOS/com.apple.iTunesLibraryService
+  558 ??         0:00.14 /usr/libexec/siriknowledged
+  559 ??         0:00.13 /System/Library/PrivateFrameworks/FMClient.framework/Versions/A/XPCServices/FMIPClientXPCService.xpc/Contents/MacOS/FMIPClientXPCService
+  564 ??         0:02.48 /System/Library/PrivateFrameworks/CoreFollowUp.framework/Versions/A/Support/followupd
+  574 ??         0:02.82 /System/Library/Frameworks/Foundation.framework/Versions/C/XPCServices/com.apple.foundation.UserScriptService.xpc/Contents/MacOS/com.apple.foundation.UserScriptService
+  580 ??         0:00.31 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdwrite
+  582 ??         0:00.06 /System/Library/Frameworks/ApplicationServices.framework/Frameworks/PrintCore.framework/Versions/A/printtool agent
+  609 ??         0:07.55 /usr/libexec/studentd
   611 ??         0:00.06 /System/Library/PrivateFrameworks/CoreCDP.framework/Versions/A/Resources/cdpd
-  625 ??         0:00.22 /System/Library/PrivateFrameworks/ClassKit.framework/Versions/A/progressd
-  626 ??         0:01.53 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
-  627 ??         0:01.67 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
-  871 ??         0:39.60 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
-  872 ??         0:20.73 /Applications/Porting Kit.app/Contents/MacOS/Porting Kit
-  875 ??         0:01.53 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
-  876 ??         0:02.14 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+  625 ??         0:00.23 /System/Library/PrivateFrameworks/ClassKit.framework/Versions/A/progressd
+  626 ??         0:01.67 /System/Library/PrivateFrameworks/PassKitCore.framework/passd
+  627 ??         0:01.76 /System/Library/PrivateFrameworks/HomeKitDaemon.framework/Support/homed
+  871 ??         0:44.13 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
+  872 ??         0:23.73 /Applications/Porting Kit.app/Contents/MacOS/Porting Kit
+  875 ??         0:01.82 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.WebContent.xpc/Contents/MacOS/com.apple.WebKit.WebContent
+  876 ??         0:02.39 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
   882 ??         0:00.03 /System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/XPCServices/com.apple.DictionaryServiceHelper.xpc/Contents/MacOS/com.apple.DictionaryServiceHelper
- 1475 ??         0:00.05 /System/Library/PrivateFrameworks/DistributedEvaluation.framework/Versions/A/XPCServices/com.apple.siri-distributed-evaluation.xpc/Contents/MacOS/com.apple.siri-distributed-evaluation
- 4170 ??         0:00.20 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
- 4172 ??         0:00.40 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
- 4173 ??         0:00.22 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+ 1475 ??         0:00.06 /System/Library/PrivateFrameworks/DistributedEvaluation.framework/Versions/A/XPCServices/com.apple.siri-distributed-evaluation.xpc/Contents/MacOS/com.apple.siri-distributed-evaluation
+ 4170 ??         0:00.22 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+ 4172 ??         0:00.50 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
+ 4173 ??         0:00.24 /System/Library/PrivateFrameworks/IMFoundation.framework/XPCServices/IMRemoteURLConnectionAgent.xpc/Contents/MacOS/IMRemoteURLConnectionAgent
  5098 ??         0:00.18 /System/Library/PrivateFrameworks/IMDPersistence.framework/IMAutomaticHistoryDeletionAgent.app/Contents/MacOS/IMAutomaticHistoryDeletionAgent
-18145 ??         0:09.25 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-18188 ??         0:09.58 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-37623 ??         0:00.07 /usr/libexec/warmd_agent
+37623 ??         0:00.08 /usr/libexec/warmd_agent
 37642 ??         0:00.06 /System/Library/PrivateFrameworks/KerberosHelper/Helpers/DiskUnmountWatcher
 37990 ??         0:00.08 /System/Library/CoreServices/EscrowSecurityAlert.app/Contents/MacOS/EscrowSecurityAlert
-37994 ??         0:00.26 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomodel.xpc/Contents/MacOS/com.apple.photomodel
-37995 ??         0:00.07 /System/Library/PrivateFrameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
-38235 ??         0:01.38 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
-38775 ??         0:00.87 /System/Library/Frameworks/MediaLibrary.framework/Versions/A/XPCServices/com.apple.MediaLibraryService.xpc/Contents/MacOS/com.apple.MediaLibraryService
+37994 ??         0:00.27 /System/Library/PrivateFrameworks/PhotoLibraryPrivate.framework/Versions/A/Frameworks/PhotoLibraryServices.framework/Versions/A/XPCServices/com.apple.photomodel.xpc/Contents/MacOS/com.apple.photomodel
+37995 ??         0:00.08 /System/Library/PrivateFrameworks/QuickLookThumbnailing.framework/Support/com.apple.quicklook.ThumbnailsAgent
+38235 ??         0:01.62 /System/Library/Frameworks/WebKit.framework/Versions/A/XPCServices/com.apple.WebKit.Networking.xpc/Contents/MacOS/com.apple.WebKit.Networking
+38775 ??         0:00.96 /System/Library/Frameworks/MediaLibrary.framework/Versions/A/XPCServices/com.apple.MediaLibraryService.xpc/Contents/MacOS/com.apple.MediaLibraryService
 38946 ??         0:00.09 /System/Library/PrivateFrameworks/PrintingPrivate.framework/Versions/A/PrintUITool
-39036 ??         4:02.02 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 97 -isForBrowser -prefsLen 11317 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.51211524 tab
+39036 ??         4:58.85 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 97 -isForBrowser -prefsLen 11317 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.51211524 tab
 39104 ??         0:00.16 /System/Library/Frameworks/DiskArbitration.framework/Versions/A/Support/DiskArbitrationAgent
-39133 ??         0:02.90 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-39134 ??         0:02.33 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-39145 ??         0:00.25 /System/Library/CoreServices/mapspushd
+39145 ??         0:00.27 /System/Library/CoreServices/mapspushd
 39215 ??         0:00.14 /usr/libexec/silhouette
-39250 ??        13:51.15 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 113 -isForBrowser -prefsLen 11324 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.1098120684 tab
-39980 ??         0:19.69 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/8A0CACD0-4F37-46CD-BD11-FD289309435D/d/Fanny.app/Contents/MacOS/Fanny
-41519 ??         0:00.22 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
-45608 ??         0:15.98 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 115 -isForBrowser -prefsLen 11255 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.547415384 tab
-45726 ??         0:00.62 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
-49331 ??         0:00.91 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/MacOS/WineskinLauncher
-49351 ??         1:34.01 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wineserver
-49361 ??         0:00.00 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\services.exe
-49363 ??         0:43.69 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\services.exe 
-49365 ??         0:00.00 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\winedevice.exe
-49367 ??         0:00.06 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\winedevice.exe 
-49369 ??         0:00.00 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\plugplay.exe
-49371 ??         0:00.04 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\plugplay.exe 
-49373 ??         0:00.00 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\winedevice.exe
-49375 ??         0:47.15 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\winedevice.exe 
-49383 ??         0:00.00 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\explorer.exe /desktop
-49385 ??         0:01.36 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\explorer.exe /desktop 
-49537 ??         0:00.00 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\Program Files\Steam\steamapps\common\Skyrim\\TESV.exe
-49539 ??         5:07.00 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\Program Files\Steam\steamapps\common\Skyrim\\TESV.exe 
-49550 ??         0:01.52 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
-49886 ??         0:12.35 /Applications/Utilities/Activity Monitor.app/Contents/MacOS/Activity Monitor
-49939 ??         0:00.12 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-49950 ??         0:18.86 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 116 -isForBrowser -prefsLen 11277 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.489524229 tab
-49989 ??         0:14.21 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
-50115 ??         0:00.19 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-50400 ??         0:09.75 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/E80F5A0B-D29A-4E2D-BEA0-33E94A42E050/d/Atom.app/Contents/MacOS/Atom
-50408 ??         0:01.09 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/E80F5A0B-D29A-4E2D-BEA0-33E94A42E050/d/Atom.app/Contents/Frameworks/Atom Helper.app/Contents/MacOS/Atom Helper --type=gpu-process --enable-features=SharedArrayBuffer --disable-features=MacV2Sandbox --no-sandbox --gpu-preferences=KAAAAAAAAACAAAAAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAADgBAAAmAAAAMAEAAAAAAAA4AQAAAAAAAEABAAAAAAAASAEAAAAAAABQAQAAAAAAAFgBAAAAAAAAYAEAAAAAAABoAQAAAAAAAHABAAAAAAAAeAEAAAAAAACAAQAAAAAAAIgBAAAAAAAAkAEAAAAAAACYAQAAAAAAAKABAAAAAAAAqAEAAAAAAACwAQAAAAAAALgBAAAAAAAAwAEAAAAAAADIAQAAAAAAANABAAAAAAAA2AEAAAAAAADgAQAAAAAAAOgBAAAAAAAA8AEAAAAAAAD4AQAAAAAAAAACAAAAAAAACAIAAAAAAAAQAgAAAAAAABgCAAAAAAAAIAIAAAAAAAAoAgAAAAAAADACAAAAAAAAOAIAAAAAAABAAgAAAAAAAEgCAAAAAAAAUAIAAAAAAABYAgAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAAAAAAATAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAAMAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAAAQAAAA8AAAAQAAAAAAAAAAEAAAAQAAAAEAAAAAAAAAABAAAAEgAAABAAAAAAAAAAAQAAABMAAAAQAAAAAAAAAAQAAAAFAAAAEAAAAAAAAAAEAAAACwAAABAAAAAAAAAABAAAAAwAAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAEAAAADwAAABAAAAAAAAAABAAAABAAAAAQAAAAAAAAAAQAAAASAAAAEAAAAAAAAAAEAAAAEwAAABAAAAAAAAAABgAAAAUAAAAQAAAAAAAAAAYAAAALAAAAEAAAAAAAAAAGAAAADQAAABAAAAAAAAAABgAAAA8AAAAQAAAAAAAAAAYAAAAQAAAAEAAAAAAAAAAGAAAAEgAAABAAAAAAAAAABgAAABMAAAAQAAAAAAAAAAcAAAAFAAAAEAAAAAAAAAAHAAAACwAAABAAAAAAAAAABwAAAA0AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAHAAAAEAAAABAAAAAAAAAABwAAABIAAAAQAAAAAAAAAAcAAAATAAAA --service-request-channel-token=4233772169758985602
+39980 ??         0:37.77 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/8A0CACD0-4F37-46CD-BD11-FD289309435D/d/Fanny.app/Contents/MacOS/Fanny
+41519 ??         0:00.32 /System/Library/PrivateFrameworks/CoreParsec.framework/parsec-fbf
+50400 ??         4:08.04 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/E80F5A0B-D29A-4E2D-BEA0-33E94A42E050/d/Atom.app/Contents/MacOS/Atom
+50408 ??         0:30.25 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/E80F5A0B-D29A-4E2D-BEA0-33E94A42E050/d/Atom.app/Contents/Frameworks/Atom Helper.app/Contents/MacOS/Atom Helper --type=gpu-process --enable-features=SharedArrayBuffer --disable-features=MacV2Sandbox --no-sandbox --gpu-preferences=KAAAAAAAAACAAAAAAQAAAAAAAAAAAGAAAAAAAAAAAAAIAAAAAAAAADgBAAAmAAAAMAEAAAAAAAA4AQAAAAAAAEABAAAAAAAASAEAAAAAAABQAQAAAAAAAFgBAAAAAAAAYAEAAAAAAABoAQAAAAAAAHABAAAAAAAAeAEAAAAAAACAAQAAAAAAAIgBAAAAAAAAkAEAAAAAAACYAQAAAAAAAKABAAAAAAAAqAEAAAAAAACwAQAAAAAAALgBAAAAAAAAwAEAAAAAAADIAQAAAAAAANABAAAAAAAA2AEAAAAAAADgAQAAAAAAAOgBAAAAAAAA8AEAAAAAAAD4AQAAAAAAAAACAAAAAAAACAIAAAAAAAAQAgAAAAAAABgCAAAAAAAAIAIAAAAAAAAoAgAAAAAAADACAAAAAAAAOAIAAAAAAABAAgAAAAAAAEgCAAAAAAAAUAIAAAAAAABYAgAAAAAAABAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAAAAAAALAAAAEAAAAAAAAAAAAAAADAAAABAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAAAAAAAPAAAAEAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAAAAAAATAAAAEAAAAAAAAAABAAAABQAAABAAAAAAAAAAAQAAAAsAAAAQAAAAAAAAAAEAAAAMAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAAAQAAAA8AAAAQAAAAAAAAAAEAAAAQAAAAEAAAAAAAAAABAAAAEgAAABAAAAAAAAAAAQAAABMAAAAQAAAAAAAAAAQAAAAFAAAAEAAAAAAAAAAEAAAACwAAABAAAAAAAAAABAAAAAwAAAAQAAAAAAAAAAQAAAANAAAAEAAAAAAAAAAEAAAADwAAABAAAAAAAAAABAAAABAAAAAQAAAAAAAAAAQAAAASAAAAEAAAAAAAAAAEAAAAEwAAABAAAAAAAAAABgAAAAUAAAAQAAAAAAAAAAYAAAALAAAAEAAAAAAAAAAGAAAADQAAABAAAAAAAAAABgAAAA8AAAAQAAAAAAAAAAYAAAAQAAAAEAAAAAAAAAAGAAAAEgAAABAAAAAAAAAABgAAABMAAAAQAAAAAAAAAAcAAAAFAAAAEAAAAAAAAAAHAAAACwAAABAAAAAAAAAABwAAAA0AAAAQAAAAAAAAAAcAAAAPAAAAEAAAAAAAAAAHAAAAEAAAABAAAAAAAAAABwAAABIAAAAQAAAAAAAAAAcAAAATAAAA --service-request-channel-token=4233772169758985602
 50410 ??         0:00.03 /var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/E80F5A0B-D29A-4E2D-BEA0-33E94A42E050/d/Atom.app/Contents/Frameworks/Electron Framework.framework/Resources/crashpad_handler --no-rate-limit --no-upload-gzip --database=/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/Atom Crashes --metrics-dir=/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/Atom Crashes --url=https://atom.io/crash_reports --handshake-fd=46
 50411 ??         0:00.11 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
-50531 ??         0:00.11 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-50547 ??         0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-50550 ??         0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-50555 ??         0:00.17 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-50556 ??         0:00.22 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-50561 ??         0:00.20 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-50562 ??         0:00.29 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-50936 ??         0:00.14 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-51427 ??         0:03.55 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 118 -isForBrowser -prefsLen 11338 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.1103483895 tab
-51466 ??         0:01.02 /Applications/Right Click Booster.app/Contents/MacOS/Right Click Booster
-51613 ??         0:00.14 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
-51622 ??         0:00.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
-51700 ??         0:01.01 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 119 -isForBrowser -prefsLen 11338 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.542623187 tab
-51733 ??         0:00.42 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.mdworker.bundles
-50868 ttys000    0:00.03 login -pf austinkehrer
-50869 ttys000    0:00.46 -bash
-51751 ttys000    0:00.01 ps -x
+50555 ??         0:02.33 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+50556 ??         0:02.22 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+50561 ??         0:02.08 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+50562 ??         0:03.45 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+52069 ??         0:04.61 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
+58353 ??         0:14.45 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/9F9ACA3F-BEF3-41E3-B044-F3BB2DF98A66/d/GitHub Desktop.app/Contents/MacOS/GitHub Desktop
+58386 ??         0:03.81 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/9F9ACA3F-BEF3-41E3-B044-F3BB2DF98A66/d/GitHub Desktop.app/Contents/Frameworks/GitHub Desktop Helper (GPU).app/Contents/MacOS/GitHub Desktop Helper (GPU) --type=gpu-process --field-trial-handle=1718379636,6030615262668950260,6736601879418272298,131072 --disable-features=SpareRendererForSitePerProcess --gpu-preferences=KAAAAAAAAAAgAAAAAAAAAAAAYAAAAAAAEAAAAAAAAAAAAAAAAAAAAOgAAAAcAAAA4AAAAAAAAADoAAAAAAAAAPAAAAAAAAAA+AAAAAAAAAAAAQAAAAAAAAgBAAAAAAAAEAEAAAAAAAAYAQAAAAAAACABAAAAAAAAKAEAAAAAAAAwAQAAAAAAADgBAAAAAAAAQAEAAAAAAABIAQAAAAAAAFABAAAAAAAAWAEAAAAAAABgAQAAAAAAAGgBAAAAAAAAcAEAAAAAAAB4AQAAAAAAAIABAAAAAAAAiAEAAAAAAACQAQAAAAAAAJgBAAAAAAAAoAEAAAAAAACoAQAAAAAAALABAAAAAAAAuAEAAAAAAAAQAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAABgAAABAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAAAAAAACgAAABAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAAAAAAANAAAAEAAAAAAAAAABAAAAAAAAABAAAAAAAAAAAQAAAAYAAAAQAAAAAAAAAAEAAAAHAAAAEAAAAAAAAAABAAAACAAAABAAAAAAAAAAAQAAAAoAAAAQAAAAAAAAAAEAAAALAAAAEAAAAAAAAAABAAAADQAAABAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAQAAAAGAAAAEAAAAAAAAAAEAAAABwAAABAAAAAAAAAABAAAAAgAAAAQAAAAAAAAAAQAAAAKAAAAEAAAAAAAAAAEAAAACwAAABAAAAAAAAAABAAAAA0AAAAQAAAAAAAAAAYAAAAAAAAAEAAAAAAAAAAGAAAABgAAABAAAAAAAAAABgAAAAcAAAAQAAAAAAAAAAYAAAAIAAAAEAAAAAAAAAAGAAAACgAAABAAAAAAAAAABgAAAAsAAAAQAAAAAAAAAAYAAAANAAAA --service-request-channel-token=12807817363875308301
+58421 ??         0:00.63 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/9F9ACA3F-BEF3-41E3-B044-F3BB2DF98A66/d/GitHub Desktop.app/Contents/Frameworks/GitHub Desktop Helper.app/Contents/MacOS/GitHub Desktop Helper --type=utility --field-trial-handle=1718379636,6030615262668950260,6736601879418272298,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --service-sandbox-type=network --service-request-channel-token=140864411286767052
+58422 ??         0:11.52 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/9F9ACA3F-BEF3-41E3-B044-F3BB2DF98A66/d/GitHub Desktop.app/Contents/Frameworks/GitHub Desktop Helper (Renderer).app/Contents/MacOS/GitHub Desktop Helper (Renderer) --type=renderer --field-trial-handle=1718379636,6030615262668950260,6736601879418272298,131072 --disable-features=SpareRendererForSitePerProcess --lang=en-US --app-path=/private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/9F9ACA3F-BEF3-41E3-B044-F3BB2DF98A66/d/GitHub Desktop.app/Contents/Resources/app --enable-experimental-web-platform-features --node-integration --no-sandbox --no-zygote --background-color=#fff --disable-blink-features=Auxclick --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=15938151616803105819 --renderer-client-id=5 --no-v8-untrusted-code-mitigations
+58423 ??         0:00.09 /System/Library/Frameworks/VideoToolbox.framework/Versions/A/XPCServices/VTDecoderXPCService.xpc/Contents/MacOS/VTDecoderXPCService
+58545 ??         0:02.50 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
+58694 ??         4:35.29 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 133 -isForBrowser -prefsLen 11541 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.385684784 tab
+58735 ??         0:01.07 /Applications/Firefox.app/Contents/MacOS/plugin-container.app/Contents/MacOS/plugin-container -childID 138 -isForBrowser -prefsLen 11612 -prefMapSize 224760 -sbStartup -sbAppPath /Applications/Firefox.app -sbLevel 3 -sbAllowAudio -sbAllowWindowServer -parentBuildID 20200720193547 -appdir /Applications/Firefox.app/Contents/Resources/browser -profile /Users/austinkehrer/Library/Application Support/Firefox/Profiles/qf0js5yk.default-release 494 gecko-crash-server-pipe.494 org.mozilla.machname.2070283441 tab
+58736 ??         0:02.71 /Applications/Betternet VPN.app/Contents/MacOS/Betternet VPN
+58738 ??         0:00.39 /System/Library/PrivateFrameworks/CommerceKit.framework/Versions/A/Resources/storeuid.app/Contents/MacOS/storeuid
+58740 ??         0:00.05 /usr/libexec/neagent
+58761 ??         0:00.46 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/WorkflowServiceRunner.xpc/Contents/MacOS/WorkflowServiceRunner
+58794 ??         0:00.02 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine steam.exe -no-cef-sandbox ^M
+58798 ??         3:48.29 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader steam.exe -no-cef-sandbox ^M 
+58802 ??         3:03.97 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wineserver
+58810 ??         0:00.00 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\services.exe
+58812 ??         0:46.50 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\services.exe 
+58814 ??         0:00.01 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\winedevice.exe
+58816 ??         0:00.06 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\winedevice.exe 
+58818 ??         0:00.00 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\plugplay.exe
+58820 ??         0:00.05 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\plugplay.exe 
+58822 ??         0:00.01 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\winedevice.exe
+58824 ??         1:05.96 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\winedevice.exe 
+58827 ??         0:00.01 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\windows\system32\explorer.exe /desktop
+58829 ??         0:01.98 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\windows\system32\explorer.exe /desktop 
+58832 ??         0:00.01 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe -lang=en_US -cachedir=C:\users\crossover\Local Settings\Application Data\Steam\htmlcache -steampid=8 -buildid=1596217132 -steamid=0 -steamuniverse=Public -clientui=C:\Program Files\Steam\clientui --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --enable-media-stream --enable-smooth-scrolling --disable-gpu-compositing --disable-gpu --disable-direct-write --disablehighdpi --force-device-scale-factor=1 --device-scale-factor=1 --no-sandbox --log-file=C:\Program Files\Steam\logs\cef_log.txt --no-sandbox --in-process-gpu
+58834 ??         0:10.51 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe -lang=en_US -cachedir=C:\users\crossover\Local Settings\Application Data\Steam\htmlcache -steampid=8 -buildid=1596217132 -steamid=0 -steamuniverse=Public -clientui=C:\Program Files\Steam\clientui --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --enable-media-stream --enable-smooth-scrolling --disable-gpu-compositing --disable-gpu --disable-direct-write --disablehighdpi --force-device-scale-factor=1 --device-scale-factor=1 --no-sandbox --log-file=C:\Program Files\Steam\logs\cef_log.txt --no-sandbox --in-process-gpu 
+58935 ??         0:10.04 /System/Library/Frameworks/AppKit.framework/Versions/C/XPCServices/com.apple.appkit.xpc.openAndSavePanelService.xpc/Contents/MacOS/com.apple.appkit.xpc.openAndSavePanelService
+58942 ??         0:00.01 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe --type=utility --field-trial-handle=940,7323200292105519164,2013104479206298805,131072 --disable-features=CalculateNativeWinOcclusion,MimeHandlerViewInCrossProcessFrame --lang=en-US --service-sandbox-type=network --no-sandbox --use-gl=swiftshader-webgl --log-file=C:\Program Files\Steam\logs\cef_log.txt --product-version=Valve Steam Client --lang=en-US --force-device-scale-factor=1 --disablehighdpi --disablehighdpi --buildid=1596217132 --steamid=0 --log-file=C:\Program Files\Steam\logs\cef_log.txt --service-request-channel-token=16805541341196299354 --mojo-platform-channel-handle=952 /prefetch:8 --no-sandbox --in-process-gpu
+58944 ??         0:02.40 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe --type=utility --field-trial-handle=940,7323200292105519164,2013104479206298805,131072 --disable-features=CalculateNativeWinOcclusion,MimeHandlerViewInCrossProcessFrame --lang=en-US --service-sandbox-type=network --no-sandbox --use-gl=swiftshader-webgl --log-file=C:\Program Files\Steam\logs\cef_log.txt --product-version=Valve Steam Client --lang=en-US --force-device-scale-factor=1 --disablehighdpi --disablehighdpi --buildid=1596217132 --steamid=0 --log-file=C:\Program Files\Steam\logs\cef_log.txt --service-request-channel-token=16805541341196299354 --mojo-platform-channel-handle=952 /prefetch:8 --no-sandbox --in-process-gpu 
+58945 ??         0:01.22 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
+58946 ??         0:01.20 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
+58955 ??         0:00.01 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe --type=renderer --no-sandbox --force-device-scale-factor=1 --log-file=C:\Program Files\Steam\logs\cef_log.txt --use-gl=swiftshader-webgl --field-trial-handle=940,7323200292105519164,2013104479206298805,131072 --disable-features=CalculateNativeWinOcclusion,MimeHandlerViewInCrossProcessFrame --disable-gpu-compositing --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-US --log-file=C:\Program Files\Steam\logs\cef_log.txt --product-version=Valve Steam Client --force-device-scale-factor=1 --disablehighdpi --disablehighdpi --buildid=1596217132 --steamid=0 --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=9043533219766040021 --renderer-client-id=5 --mojo-platform-channel-handle=1244 /prefetch:1 --no-sandbox --in-process-gpu
+58957 ??         0:01.22 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe --type=renderer --no-sandbox --force-device-scale-factor=1 --log-file=C:\Program Files\Steam\logs\cef_log.txt --use-gl=swiftshader-webgl --field-trial-handle=940,7323200292105519164,2013104479206298805,131072 --disable-features=CalculateNativeWinOcclusion,MimeHandlerViewInCrossProcessFrame --disable-gpu-compositing --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-US --log-file=C:\Program Files\Steam\logs\cef_log.txt --product-version=Valve Steam Client --force-device-scale-factor=1 --disablehighdpi --disablehighdpi --buildid=1596217132 --steamid=0 --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=9043533219766040021 --renderer-client-id=5 --mojo-platform-channel-handle=1244 /prefetch:1 --no-sandbox --in-process-gpu 
+58959 ??         0:00.01 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe --type=renderer --no-sandbox --force-device-scale-factor=1 --log-file=C:\Program Files\Steam\logs\cef_log.txt --use-gl=swiftshader-webgl --field-trial-handle=940,7323200292105519164,2013104479206298805,131072 --disable-features=CalculateNativeWinOcclusion,MimeHandlerViewInCrossProcessFrame --disable-gpu-compositing --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-US --log-file=C:\Program Files\Steam\logs\cef_log.txt --product-version=Valve Steam Client --force-device-scale-factor=1 --disablehighdpi --disablehighdpi --buildid=1596217132 --steamid=0 --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=18311510904950975038 --renderer-client-id=6 --mojo-platform-channel-handle=1280 /prefetch:1 --no-sandbox --in-process-gpu
+58961 ??         0:09.09 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe --type=renderer --no-sandbox --force-device-scale-factor=1 --log-file=C:\Program Files\Steam\logs\cef_log.txt --use-gl=swiftshader-webgl --field-trial-handle=940,7323200292105519164,2013104479206298805,131072 --disable-features=CalculateNativeWinOcclusion,MimeHandlerViewInCrossProcessFrame --disable-gpu-compositing --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-US --log-file=C:\Program Files\Steam\logs\cef_log.txt --product-version=Valve Steam Client --force-device-scale-factor=1 --disablehighdpi --disablehighdpi --buildid=1596217132 --steamid=0 --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=18311510904950975038 --renderer-client-id=6 --mojo-platform-channel-handle=1280 /prefetch:1 --no-sandbox --in-process-gpu 
+58967 ??         0:00.01 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe --type=renderer --no-sandbox --force-device-scale-factor=1 --log-file=C:\Program Files\Steam\logs\cef_log.txt --use-gl=swiftshader-webgl --field-trial-handle=940,7323200292105519164,2013104479206298805,131072 --disable-features=CalculateNativeWinOcclusion,MimeHandlerViewInCrossProcessFrame --disable-gpu-compositing --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-US --log-file=C:\Program Files\Steam\logs\cef_log.txt --product-version=Valve Steam Client --force-device-scale-factor=1 --disablehighdpi --disablehighdpi --buildid=1596217132 --steamid=0 --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=17298751605137076653 --renderer-client-id=8 --mojo-platform-channel-handle=1400 /prefetch:1 --no-sandbox --in-process-gpu
+58969 ??         0:03.57 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\Program Files\Steam\bin\cef\cef.win7\steamwebhelper.exe --type=renderer --no-sandbox --force-device-scale-factor=1 --log-file=C:\Program Files\Steam\logs\cef_log.txt --use-gl=swiftshader-webgl --field-trial-handle=940,7323200292105519164,2013104479206298805,131072 --disable-features=CalculateNativeWinOcclusion,MimeHandlerViewInCrossProcessFrame --disable-gpu-compositing --enable-blink-features=ResizeObserver,Worklet,AudioWorklet --lang=en-US --log-file=C:\Program Files\Steam\logs\cef_log.txt --product-version=Valve Steam Client --force-device-scale-factor=1 --disablehighdpi --disablehighdpi --buildid=1596217132 --steamid=0 --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --service-request-channel-token=17298751605137076653 --renderer-client-id=8 --mojo-platform-channel-handle=1400 /prefetch:1 --no-sandbox --in-process-gpu 
+59142 ??         0:00.59 /System/Library/CoreServices/CoreServicesUIAgent.app/Contents/MacOS/CoreServicesUIAgent
+59189 ??         0:37.45 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/E80F5A0B-D29A-4E2D-BEA0-33E94A42E050/d/Atom.app/Contents/Frameworks/Atom Helper.app/Contents/MacOS/Atom Helper --type=renderer --no-sandbox --enable-experimental-web-platform-features --enable-features=SharedArrayBuffer --disable-features=MacV2Sandbox --service-pipe-token=17149179679361130876 --lang=en-US --app-path=/private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/E80F5A0B-D29A-4E2D-BEA0-33E94A42E050/d/Atom.app/Contents/Resources/app.asar --user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Atom/1.45.0 Chrome/69.0.3497.128 Electron/4.2.7 Safari/537.36 --node-integration=true --webview-tag=true --no-sandbox --background-color=#fff --disable-blink-features=Auxclick --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=17149179679361130876 --renderer-client-id=10
+59283 ??         0:01.27 /private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/E80F5A0B-D29A-4E2D-BEA0-33E94A42E050/d/Atom.app/Contents/Frameworks/Atom Helper.app/Contents/MacOS/Atom Helper --type=renderer --no-sandbox --enable-experimental-web-platform-features --enable-features=SharedArrayBuffer --disable-features=MacV2Sandbox --service-pipe-token=18063003716906585714 --lang=en-US --app-path=/private/var/folders/6k/_v17m6qs16q4rywg6wdrxld00000gn/T/AppTranslocation/E80F5A0B-D29A-4E2D-BEA0-33E94A42E050/d/Atom.app/Contents/Resources/app.asar --user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Atom/1.45.0 Chrome/69.0.3497.128 Electron/4.2.7 Safari/537.36 --node-integration=true --webview-tag=true --no-sandbox --background-color=#fff --num-raster-threads=2 --enable-zero-copy --enable-gpu-memory-buffer-compositor-resources --enable-main-frame-before-activation --service-request-channel-token=18063003716906585714 --renderer-client-id=12
+59375 ??         0:00.01 /bin/bash /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine-preloader /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/wine C:\Program Files\Steam\steamapps\common\Skyrim\\TESV.exe
+59377 ??         4:03.07 /Users/austinkehrer/Applications/Games.localized/The Elder Scrolls V Skyrim Legendary Edition.app/Contents/Frameworks/wswine.bundle/lib/../bin/The Elder Scrolls V Skyrim Legendary Edition58574142Wine-preloader C:\Program Files\Steam\steamapps\common\Skyrim\\TESV.exe 
+59388 ??         0:06.00 /Applications/Utilities/Activity Monitor.app/Contents/MacOS/Activity Monitor
+59389 ??         0:13.80 /Applications/Utilities/Terminal.app/Contents/MacOS/Terminal
+59524 ??         0:00.19 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59563 ??         0:00.22 /System/Library/Frameworks/QuickLook.framework/Resources/quicklookd.app/Contents/MacOS/quicklookd
+59565 ??         0:00.28 /System/Library/Frameworks/QuickLook.framework/Versions/A/Resources/quicklookd.app/Contents/XPCServices/QuickLookSatellite.xpc/Contents/MacOS/QuickLookSatellite
+59571 ??         0:01.11 /Applications/Right Click Booster.app/Contents/MacOS/Right Click Booster
+59572 ??         0:00.12 /System/Library/CoreServices/ScriptMonitor.app/Contents/MacOS/ScriptMonitor
+59582 ??         0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59585 ??         0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59588 ??         0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59590 ??         0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59592 ??         0:00.06 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59594 ??         0:00.16 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59595 ??         0:00.27 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59596 ??         0:00.16 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59614 ??         0:02.60 /Applications/TextEdit.app/Contents/MacOS/TextEdit
+59617 ??         0:00.31 /Applications/Right Click Booster.app/Contents/PlugIns/RightClickBoosterPlugin.appex/Contents/MacOS/RightClickBoosterPlugin
+59628 ??         0:00.21 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59634 ??         0:00.09 /System/Library/PrivateFrameworks/CloudDocs.framework/PlugIns/com.apple.CloudDocs.MobileDocumentsFileProvider.appex/Contents/MacOS/com.apple.CloudDocs.MobileDocumentsFileProvider
+59635 ??         0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59636 ??         0:00.07 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker_shared -s mdworker -c MDSImporterWorker -m com.apple.mdworker.shared
+59650 ??         0:00.46 /System/Library/Frameworks/AddressBook.framework/Versions/A/Helpers/AddressBookSourceSync.app/Contents/MacOS/AddressBookSourceSync
+59652 ??         0:00.60 /System/Library/Frameworks/CoreServices.framework/Frameworks/Metadata.framework/Versions/A/Support/mdworker -s mdworker-bundle -c MDSImporterBundleFinder -m com.apple.mdworker.bundles
+59658 ??         0:00.15 /System/Library/PrivateFrameworks/AOSKit.framework/Versions/A/XPCServices/com.apple.iCloudHelper.xpc/Contents/MacOS/com.apple.iCloudHelper
+59390 ttys000    0:00.05 login -pf austinkehrer
+59391 ttys000    0:00.52 -bash
+59661 ttys000    0:00.01 ps -x
